@@ -1,0 +1,61 @@
+//Radio Buttons
+		JRadioButton radio1 = new JRadioButton("uno");
+		JRadioButton radio2 = new JRadioButton("dos");
+		JRadioButton radio3 = new JRadioButton("dos");
+		ButtonGroup grupoRadio = new ButtonGroup();
+		grupoRadio.add(radio1);
+		grupoRadio.add(radio2);
+		grupoRadio.add(radio3);
+
+
+That's an easy one. Today I have no chooice. I've been strickenby old, very old random memories which I can't recall now. Is it that they were leaving my mind, my conscious mind? maybe they were being erased, the pointers to them slowly sinking behind other information in my mind. Memories huddle continuously in my mind. And while I'd like to muster all my free time to complile them and relive those moments I so enjoyed, It's proven impossible whithin my current lifestyle.
+You learn from mistakes they say. This mistake has proven somewhat useful, since I think I've learned quite a few things. A ouple of months ago I had no idea about what was really java. Today I think I can code a somewhat complex application, with at least a decent user interface and some functionality.
+The rich lost their fear and their shame. And the welfare state is disappearing with astonishing ease. Those things we came to inderstand as evolution are no more. They're being slowly eaten. I used to say that in our current situation there's no need for armed struggle. That if 
+
+/*\u00e1 -> a
+ \u00e9 -> e
+ \u00ed -> i
+ \u00f3 -> o
+ \u00fa -> u
+ \u00c1 -> A
+ \u00c9 -> E
+ \u00cd -> I
+ \u00d3 -> O
+ \u00da -> U
+ \u00f1 -> n
+ \u00d1 -> N*/
+ 
+ JPanel comboBoxPane = new JPanel(); // use FlowLayout
+ 	/*//Where the GUI is assembled:
+//Put the JComboBox in a JPanel to get a nicer look.
+String comboBoxItems[] = { "uno", "dos" };
+	JComboBox cb = new JComboBox(comboBoxItems);
+	cb.setEditable(false);
+	cb.addItemListener();
+	comboBoxPane.add(cb);
+...
+pane.add(comboBoxPane, BorderLayout.PAGE_START);
+pane.add(cards, BorderLayout.CENTER);
+...
+
+//Method came from the ItemListener class implementation,
+//contains functionality to process the combo box item selecting
+public void itemStateChanged(ItemEvent evt) {
+    CardLayout cl = (CardLayout)(cards.getLayout());
+    cl.show(cards, (String)evt.getItem());*/
+
+
+-nora - ??
+-correo graciasolga
+
+tcs
+ir y volver. La historia de mil cosas que sucedieron antes o después
+siete años han pasado desde 2007
+este año se cumplen 10 desde mi grado. Tanto tiempo perdido... es una década entera. Pero no soy un tipo con 10 años de experiencia. de hecho estoy en uno de los puntos bajos de mi vida, aun sin tocar fondo.
+El mello decía jar a japi como diciendo algo sobre ser felíz. Deabjo de las copas de los árboles alguno seguramente lo era. Yo tenía miedo, inseguridad y algo de ansiedad. No sabía vestirme o actuar, y muy poco de lo que al final optaba por hacer me satisfizo.
+Estando en sexto o séptimo me entró el afán. Me veía termiinando sin poder aprovechar ciertas oportunidades, como estudiar afuera o hacer una práctica. Decidí entrar a francés, motivado principalmente por leguizamón. Pero loq eu decidió la situación por compelto fue, en es elejano 2002, la presencia muy leve de catalina. Sólo nos vimos dos veces pero tenía tantas historias que me dejó boquiabierto. Con ella saqué mi lado más nerd e inocente. Y verme as´í me convenció de entrar a francés, aunque fuera para parecer más interesante. 
+Llegar, abrir la puerta con mis llaves, que era algo exraño para im después de haber timbrado toda la vida. La cocina
+
+JSmooth para hacer un exe, ademas descarga lo q se necesite
+
+nunca me pude conctentrar del todo. Era de los que ma´s dañaba el escritorio y clara me regañóuna vez frente a todo el mundo. Mi pupitre era de los más desordenados, lleno de dibujos y cosas que aparecían por ahí. Julián me cogió jugando a darle vueltas a un transportador y se rio mucho de mi. Eso, sacarme mocos, mil cosas nunca me dejaron poner atención en clase, sobre todo matemáticas y tal vez sociales. Por qué no puedo evitar distraerme y divagar? las veces que ma´s m e he concnentrado ha sido en trabajos muy autónomos, bajo mucha presión.
